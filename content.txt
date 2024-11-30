@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is content for clear-branch
+=======
+This is content for cherry-branch
+Some changes in cherry-branch
+>>>>>>> 7db8a7f (Update content.txt in cherry-branch)
